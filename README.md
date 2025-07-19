@@ -2,13 +2,13 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 📖 简介 (Introduction)
+## 📖 Introduction
 
 **BrainMapping** is a deep learning framework designed to address a core challenge in neuroscience: establishing a principled, interpretable, and bidirectional functional mapping between evolutionarily distant brains (e.g., human and rodent).
 
 While rodents are the most important model systems in biomedical research, a significant explanatory gap separates the cellular-level insights gained from them and the whole-brain data acquired from non-invasive human neuroimaging. Our framework bridges this gap with a novel, cascaded three-stage model that learns and aligns the functional organization of brains across species.
 
-## ✨ 核心特性 (Core Features)
+## ✨ Core Features
 
 The framework's core is a cascaded three-stage model designed to progressively and robustly achieve the cross-species mapping:
 
@@ -27,7 +27,7 @@ The framework's core is a cascaded three-stage model designed to progressively a
     * An **optimal transport solver** (Sinkhorn algorithm) then uses these topology-aware features to compute the final bidirectional probabilistic assignment matrix, $\mathbf{P}$.
     * This process **jointly optimizes** for both feature-level similarity and global graph-structural consistency.
 
-## 🔬 验证亮点 (Validation Highlights)
+## 🔬 Validation Highlights
 
 Our framework was rigorously validated across multiple modalities and levels, demonstrating its efficacy, robustness, and biological plausibility.
 
@@ -45,7 +45,7 @@ Our framework was rigorously validated across multiple modalities and levels, de
 
 
 
-## 🚀 如何使用 (Getting Started)
+## 🚀 Getting Started
 
 *(This section is a placeholder for your specific instructions)*
 
