@@ -58,10 +58,12 @@ pip install -r requirements.txt
 ```
 ## 📜 Citation
 ### If you use our framework or methods in your research, please cite our paper.
+```
 @article{YourLastName2025BrainMapping,
   title={BrainMapping: A Bidirectional Cross-Species Brain Mapping Framework},
   author={Your Name, et al.},
   journal={Journal of High-Impact Science},
   year={2025}
 }
+```
 
