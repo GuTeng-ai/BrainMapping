@@ -47,8 +47,6 @@ Our framework was rigorously validated across multiple modalities and levels, de
 
 ## 🚀 Getting Started
 
-*(This section is a placeholder for your specific instructions)*
-
 ### Installation
 ```bash
 # Clone this repository
@@ -57,3 +55,13 @@ cd BrainMapping
 
 # Install dependencies
 pip install -r requirements.txt
+```
+## 📜 Citation
+### If you use our framework or methods in your research, please cite our paper.
+@article{YourLastName2025BrainMapping,
+  title={BrainMapping: A Bidirectional Cross-Species Brain Mapping Framework},
+  author={Your Name, et al.},
+  journal={Journal of High-Impact Science},
+  year={2025}
+}
+
