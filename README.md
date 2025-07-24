@@ -1,4 +1,4 @@
-# BrainMapping: A Bidirectional Cross-Species Brain Mapping Framework
+# BrainMapping: A Deep Learning Framework for Cross-Species Brain Functional Mapping
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
